@@ -1,0 +1,3 @@
+1. Doing the dishes.
+
+Program a robot so you could put dishes together in a pile and it could wash the dishes and put it aside on a towel to dry them off.
